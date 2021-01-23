@@ -1,0 +1,74 @@
+                                      ███        ▄████████  ▄█     ▄███████▄
+                                   ▀█████████▄   ███    ███ ███    ███    ███
+                                      ▀███▀▀██   ███    ███ ███▌   ███    ███
+                                       ███   ▀  ▄███▄▄▄▄██▀ ███▌   ███    ███
+                                       ███     ▀▀███▀▀▀▀▀   ███▌ ▀█████████▀
+                                       ███     ▀███████████ ███    ███
+                                      ███       ███    ███ ███    ███
+                                      ▄████▀     ███    ███ █▀    ▄████▀
+                                                 ███    ███
+
+Hey! Welcome to Trip Self Bot.
+To get started edit the config.json with your discord token and what you want the bot prefix to be (default is $)
+If the program insta-closes make sure your config file is'nt messed up and make sure you install requirements
+If you do not know how to get your token follow this video -
+For additional help join discord.gg/trip (perm link - https://discord.gg/mqMsjaqwwZ)
+
+~ Commands ~
+
+Text Formatting
+
+    { Bold - Bolds the message that you send }
+    { Italic - Italicizes the message that you send }
+    { Underline - Underlines the message that you send }
+
+Utility
+
+    { Avatar / Av / Pfp - Shows the avatar of a specified user }
+    { Serverpfp - Shows the avatar of your current guild }
+    { Bypass - Bypasses a linkvertise link (currently broken) }
+    { Ip / Geoip / Iplookup - Sends information about an input ip address }
+    { Dm - Dms a specified user your message }
+
+Nuke
+
+    { Masschannels - Creates mass channels under a specified name (no spaces) }
+    { Deletechannels- Deletes every channel in a server }
+    { Massroles - Creates mass roles under a specified name }
+    { Deleteroles- Deletes every role in a server }
+
+Fun Stuff
+
+    { Hug - Hugs the specified user }
+    { Pat - Pats the specified user }
+    { Kiss - Kisses the specified user }
+    { Slap - Slaps the specified user }
+    { Smug - Smugs at the specified user }
+    { Tickle - Tickles the specified user }
+    { Wallpaper - Sends a wallpaper }
+    { Cat - Send a random cat image }
+    { Dog - Sends a random dog image }
+    { Fox - Sends a random fox image }
+    { Redditmeme - Sends a random meme from reddit }
+    { Insult - Sends a random insult }
+    { Apod - Sends Nasa's astronomy picture of the day (Get an api key at api.nasa.gov:443 and put in config, its free) }
+    { Yesno - Randomly chooses yes or no for you }
+    { Whatanime - Scans an image url and tell you what anime it is from }
+    { BTC - Sends the current value of btc }
+    { Uscovid - Sends some info on covid-19 in the USA }
+
+Games
+
+    { Siegestats - Displays the stats on a specified Rainbow Six Siege username }
+    { Fortnitestats - Displays the stats on a specified Epic Games username }
+    { Fortniteshop - Displays the current fortnite shop }
+
+NSFW (Hentai)
+
+    { Lesbian - Sends a lesbian gif }
+    { Hentai - Sends a hentai gif }
+    { Boobs - Sends a boob gif }
+    { BJ - Sends a blow job gif }
+    { Anal - Sends an anal gif }
+    { Trap - Sends a trap gif (gay asf) }
+    { Orgasm - Sends a orgasm image }
